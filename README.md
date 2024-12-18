@@ -1,8 +1,10 @@
-# React + Vite
+# GifExpertApp React + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un programa usando la API de react + vite
 
-Currently, two official plugins are available:
+Comandos a usar para funcionar:
+
+yarn install
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
